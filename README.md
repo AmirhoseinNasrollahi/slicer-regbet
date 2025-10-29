@@ -150,4 +150,4 @@ If you use this tool in academic or scientific work, please cite:
 
 - **3D Slicer:** https://www.slicer.org/  
 - **BRAINSFit** (part of Slicer registration framework)  
-- **HD-BET:** Isensee, F. et al., *Medical Image Analysis* (2019)
+- **HD-BET:** https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24750
