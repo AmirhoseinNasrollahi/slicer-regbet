@@ -141,7 +141,7 @@ src/slicer_regbet/
 ---
 
 ## License
-MIT © Amirhosein Nasrollahi
+MIT © Amirhosein Nasrollahi - Amirkabir university
 
 ---
 
