@@ -1,6 +1,6 @@
 # slicer-regbet
 <p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPLv3"></a>
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python 3.10+">
   <img src="https://img.shields.io/github/v/release/AmirhoseinNasrollahi/slicer-regbet?color=green&label=Release" alt="Release">
   <a href="https://github.com/AmirhoseinNasrollahi/slicer-regbet/actions"><img src="https://github.com/AmirhoseinNasrollahi/slicer-regbet/actions/workflows/ci.yml/badge.svg" alt="CI Status"></a>
