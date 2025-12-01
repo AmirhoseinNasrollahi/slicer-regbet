@@ -160,5 +160,4 @@ See the [LICENSE](LICENSE) file for details.
 If you use this tool in academic or scientific work, please cite:
 
 - **3D Slicer:** https://www.slicer.org/  
-- **BRAINSFit** (part of Slicer registration framework)  
 - **HD-BET:** https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24750
