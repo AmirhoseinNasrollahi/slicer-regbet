@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Batch registration (BRAINSFit affine 12-DOF) + HD-BET skull-stripping via 3D Slicer (headless)"
 readme = "README.md"
 authors = [{ name = "Your Name", email = "you@example.com" }]
-license = { text = "MIT" }
+license = { text = "GNU General Public License v3 or later (GPLv3+)" }
 requires-python = ">=3.9"
 
 [project.scripts]
